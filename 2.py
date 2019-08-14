@@ -1,6 +1,8 @@
+def hashvel(artadryaly):
+    b=1
+    
+    for i in a:
+        b = b * i
+    print(b)
 a=[2, 20, 5]
-b=1
-
-for i in a:
-    b = b * i
-print(b)
+hashvel(a)
